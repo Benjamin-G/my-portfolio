@@ -2,4 +2,7 @@
 
 This is my professional portfolio. 
 
-Tech used AWS and ReactJS.
+##Technologies Used 
+
+Git and Github
+AWS and ReactJS

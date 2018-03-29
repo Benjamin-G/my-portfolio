@@ -5,4 +5,7 @@ This is my professional portfolio.
 ## Technologies Used 
 
 Git and Github
-AWS and ReactJS
+SSH
+HTML5
+CSS3
+Google Fonts

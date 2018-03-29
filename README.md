@@ -1,4 +1,4 @@
-# Benjamin Geyer portfolio
+# Benjamin Geyer's Portfolio
 
 This is my professional portfolio. 
 

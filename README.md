@@ -2,7 +2,7 @@
 
 This is my professional portfolio. 
 
-##Technologies Used 
+## Technologies Used 
 
 Git and Github
 AWS and ReactJS

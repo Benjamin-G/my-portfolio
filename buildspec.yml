@@ -3,7 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing to do yet
+      - yarn install
+      - yarn webpack
 
 artifacts:
   files:
@@ -12,3 +13,4 @@ artifacts:
     - Benjamin_Geyer_Resume.pdf
     - styles/main.css
     - images/*
+    - dist/*

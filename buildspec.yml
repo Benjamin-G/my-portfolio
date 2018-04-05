@@ -3,8 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      - yarn install
-      - yarn webpack
+      - npm install
+      - npm run webpack
 
 artifacts:
   files:
